@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurant 1",
+    "description": "A great place to eat.",
+    "latitude": 51.505,
+    "longitude": -0.09,
+    "category": "restaurant",
+    "contact": "123-456-7890",
+    "website": "http://restaurant1.com"
+  },
+  {
+    "id": 2,
+    "name": "Hospital 1",
+    "description": "24/7 emergency services.",
+    "latitude": 51.515,
+    "longitude": -0.1,
+    "category": "hospital",
+    "contact": "098-765-4321",
+    "website": "http://hospital1.com"
+  }
+]
